@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "atlassian-jira": {
+      "type": "http",
+      "url": "https://yourcompany.atlassian.net/mcp",
+      "auth": "oauth2"
+    },
+    "splunk-mcp": {
+      "type": "http",
+      "url": "https://splunk.yourcompany.com:8089/services/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_SPLUNK_TOKEN"
+      }
+    }
+  }
+}
