@@ -19,7 +19,7 @@ That's it! Copy → paste → npm i = instant production DevOps orchestration fo
 
 Ready to test? Open VS Code Copilot Chat → /jira-cli TEST-123 🚀
 
-
+```
 copilot-complete-package/
 ├── README.md
 ├── .vscode/
@@ -38,3 +38,4 @@ copilot-complete-package/
     │       └── SKILL.md
     └── agents/
         └── incident-analyst.agent.md  ← NEW: Cloud model docs
+```
