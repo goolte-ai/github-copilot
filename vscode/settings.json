@@ -1,0 +1,12 @@
+vscode/settings.json
+{
+"github.copilot.chat.agentMode": true,
+"github.copilot.chat.model": "claude-3-5-sonnet-20241022",
+"mcp.servers": ["atlassian-jira", "splunk-mcp"]
+}
+
+text
+
+**Everything included** - unzip → `npm i` → set tokens → instant production DevOps orchestration with full cloud model transparency.
+
+**🚀 [Download Full Package](sandbox:/copilot-complete-package.zip)** - Ready for Zensar GitHub Enterprise!
